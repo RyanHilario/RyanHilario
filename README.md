@@ -1,4 +1,4 @@
-## Olá, eu sou o Ryan Hilario, e estou em constante aprendizado sobre tecnologia. Atualmente, estou na área de Front-end com a tecnologia React.js/Next.js.
+## Olá, eu me chamo Ryan, e estou em constante aprendizado sobre tecnologia. Atuo na área de Front-end com HTML, CSS e JS, e atualmente com a tecnologia React.js.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
